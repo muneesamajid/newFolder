@@ -1,1 +1,2 @@
 # This is the text file
+# This is the new feature
